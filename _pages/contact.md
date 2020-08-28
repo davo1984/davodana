@@ -1,6 +1,6 @@
 ---
 ID: 34
-post_title: David O. Oliver
+post_title: Contact
 author: David Oliver
 post_excerpt: ""
 layout: page
@@ -38,10 +38,6 @@ post_date: 2017-12-13 08:38:46
 
 <!-- wp:jetpack/address {"city":"Lexington","region":"KY","postal":"40505","country":"USA","linkToGoogleMaps":true} -->
 <div class="wp-block-jetpack-address"><a href="https://www.google.com/maps/search/+Lexington,+KY,+40505+USA" target="_blank" rel="noopener noreferrer" title="Open address in Google Maps"><div><span class="jetpack-address__city">Lexington</span>, <span class="jetpack-address__region">KY</span> <span class="jetpack-address__postal">40505</span></div><div class="jetpack-address__country">USA</div></a></div>
-<!-- /wp:jetpack/address -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:jetpack/address --></div>
 <!-- /wp:jetpack/contact-info --></div></div>
 <!-- /wp:group -->
