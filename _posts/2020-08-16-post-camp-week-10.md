@@ -5,9 +5,9 @@ author: David Oliver
 post_excerpt: ""
 layout: post
 permalink: >
-  https://davodana.com/2020/08/28/post-camp-week-10/
+  https://davodana.com/2020/08/16/post-camp-week-10/
 published: true
-post_date: 2020-08-28 23:00:47
+post_date: 2020-08-16 13:00:00
 ---
 <!-- wp:paragraph -->
 <p>Job Seekers groups can be great!</p>
