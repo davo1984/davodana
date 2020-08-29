@@ -4,7 +4,7 @@ post_title: Let me help you.
 author: David Oliver
 post_excerpt: ""
 layout: page
-permalink: https://davodana.com/
+permalink: https://davodana.com/home/
 published: true
 post_date: 2017-12-13 08:37:41
 ---
