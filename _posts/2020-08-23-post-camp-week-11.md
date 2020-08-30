@@ -26,5 +26,5 @@ post_date: 2020-08-23 12:00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Also I got my Flavicon up and running. In case you don't know what that is just look at the little icon of my smiling face in your browser tab.</p>
+<p>Also I got my Flavicon up and running. In case you don't know what that is just look at the little icon of my smiling face in your browser tab. I am excited as to how all of this is looking.</p>
 <!-- /wp:paragraph -->
