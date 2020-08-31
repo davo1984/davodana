@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2020-08-23 12:00:00
 ---
-<!-- wp:paragraph -->
-<p>Still in my WordPress Theme writing Deep Dive. Now I am ready to put a little something up this week.</p>
+<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">Still in my WordPress Theme writing Deep Dive. Now I am ready to put a little something up this week.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -26,5 +26,5 @@ post_date: 2020-08-23 12:00:00
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Also I got my Flavicon up and running. In case you don't know what that is just look at the little icon of my smiling face in your browser tab. I am excited as to how all of this is looking.</p>
+<p>Also I got my Flavicon up and running. In case you don't know what that is just look at the little icon of my smiling face in your browser tab.</p>
 <!-- /wp:paragraph -->
