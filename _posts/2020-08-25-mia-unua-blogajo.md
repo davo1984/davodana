@@ -1,6 +1,6 @@
 ---
 ID: 6
-post_title: Mia Unua Blogaĵo
+post_title: Mia Unua Blogaĵo en Esperanto
 author: David Oliver
 post_excerpt: ""
 layout: post
