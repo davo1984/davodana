@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2020-08-16 13:00:00
 ---
-<!-- wp:paragraph -->
-<p>Job Seekers groups can be great!</p>
+<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">Job Seekers groups can be great!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
