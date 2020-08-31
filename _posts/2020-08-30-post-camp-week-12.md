@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2020-08-30 21:01:09
 ---
-<!-- wp:paragraph -->
-<p>Getting ready hang out my "Open for Business" shingle.</p>
+<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">Getting ready hang out my "Open for Business" shingle.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
