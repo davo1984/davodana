@@ -1,6 +1,6 @@
 ---
 ID: 654
-post_title: Post-Camp Week 12
+post_title: 'Getting ready hang out my &#8220;Open for Business&#8221; shingle.'
 author: David Oliver
 post_excerpt: ""
 layout: post
@@ -10,11 +10,7 @@ published: true
 post_date: 2020-08-30 21:01:09
 ---
 <!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Getting ready hang out my "Open for Business" shingle.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Excited to have some mud on the wall that is actually nice to look at. I've been trying out several modifications and some were a total mess. That is how I learn, by doing.</p>
+<p class="has-drop-cap">Excited to have some mud on the wall that is actually nice to look at. I've been trying out several modifications and some were a total mess. That is how I learn, by doing.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
