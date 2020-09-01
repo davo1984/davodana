@@ -5,9 +5,9 @@ author: David Oliver
 post_excerpt: ""
 layout: post
 permalink: >
-  https://davodana.com/2020/08/31/rest-in-peace-joseph/
+  https://davodana.com/2020/08/02/rest-in-peace-joseph/
 published: true
-post_date: 2020-08-31 21:24:01
+post_date: 2020-08-02 01:00:01
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">This is getting a bit discouraging.  I'm still sending out resumes, but have not received a single callback.  Regardless to keep trying is the important thing I must not lose sight of.</p>
