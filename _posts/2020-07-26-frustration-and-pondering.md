@@ -5,9 +5,9 @@ author: David Oliver
 post_excerpt: ""
 layout: post
 permalink: >
-  https://davodana.com/2020/08/31/frustration-and-pondering/
+  https://davodana.com/2020/07/26/frustration-and-pondering/
 published: true
-post_date: 2020-08-31 21:28:06
+post_date: 2020-07-26 01:00:06
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">Another frustrating week of making progress; attempting to extend the project and breaking it; trying more and more things to fix it and nothing works; then finding something simple that fixes it. Then having to go back to find and fix problems the attempted fixes caused, or reinsert pieces of code which were commented out while attempting to find the bug. This is getting old fast. I am almost to the point of getting on fixer to find someone who can mentor and instruct me on Redux and React.</p>
