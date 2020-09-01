@@ -1,6 +1,8 @@
 ---
 ID: 648
-post_title: Post-Camp Week 11
+post_title: >
+  Still in my WordPress Theme writing Deep
+  Dive.
 author: David Oliver
 post_excerpt: ""
 layout: post
@@ -10,11 +12,7 @@ published: true
 post_date: 2020-08-23 12:00:00
 ---
 <!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Still in my WordPress Theme writing Deep Dive. Now I am ready to put a little something up this week.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>I am really deep into a deep dive learning the internals of WordPress themes. I've worked my way through the theme template hierarchy. Interesting and amazing but convoluted. Got to be learned and very useful.</p>
+<p class="has-drop-cap">I am really deep into a deep dive learning the internals of WordPress themes. I've worked my way through the theme template hierarchy. Interesting and amazing but convoluted. Got to be learned and very useful.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
