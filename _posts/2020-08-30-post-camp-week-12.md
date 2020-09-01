@@ -20,7 +20,3 @@ post_date: 2020-08-30 21:01:09
 <!-- wp:paragraph -->
 <p>Looks like I get an interview with NuCamp. That will be fun. Except I'm a bit nervous about the skills part. I just haven't used CSS, HTML, and JS enough to recall much very quickly when I'm nervous.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap"></p>
-<!-- /wp:paragraph -->
