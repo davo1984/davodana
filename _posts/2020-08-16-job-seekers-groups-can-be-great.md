@@ -5,9 +5,9 @@ author: David Oliver
 post_excerpt: ""
 layout: post
 permalink: >
-  https://davodana.com/2020/08/31/job-seekers-groups-can-be-great/
+  https://davodana.com/2020/08/16/job-seekers-groups-can-be-great/
 published: true
-post_date: 2020-08-31 20:04:42
+post_date: 2020-08-16 13:00:00
 ---
 <!-- wp:paragraph {"dropCap":true} -->
 <p class="has-drop-cap">More plowing my way through the world of writing WordPress themes. I've got a major problem with my practice theme, but it seems to be one problem which shows up on many pages. I think I was warned about this and just need to decide to do the display by one method or another. Using both methods at the same time yields two different pages displayed on many pages. That is easy to correct. When I'm finished I'll go back and review that part.</p>
