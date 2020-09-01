@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2020-08-31 20:06:08
 ---
-<!-- wp:paragraph -->
-<p>I am beginning to warm up to the idea of doing freelance work. This should allow me to both study and firm up on the skills I learned in the Awesome Inc's Boot Camp, gain experience and build a really good portfolio and reputation. This will set me up to getting a really good job later. Meanwhile I will keep on looking for a job. Doing freelance does not mean that I'm not looking for a job.</p>
+<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">I am beginning to warm up to the idea of doing freelance work. This should allow me to both study and firm up on the skills I learned in the Awesome Inc's Boot Camp, gain experience and build a really good portfolio and reputation. This will set me up to getting a really good job later. Meanwhile I will keep on looking for a job. Doing freelance does not mean that I'm not looking for a job.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
